@@ -129,8 +129,8 @@ header li {
 }
 
 header ul a {
-  line-height:1;
-  font-size:11px;
+  line-height:2;
+  font-size:13px;
 /*  color:#4c4c4c; */ 
   display:block;
   text-align:center;
